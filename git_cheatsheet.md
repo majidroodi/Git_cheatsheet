@@ -59,8 +59,8 @@ A repository is a folder containing a `.git` directory and our projects files th
 |git log | List commit history of current branch. 
 |git reset | Switches the current branch to the target reference, leavinga difference as an uncommitted change.
 |git reset HARD |  When --hard is used,all changes are discarded.
-|git reset HEAD~1 | going back to the commit before HEAD
-|git reset HEAD~2 | going back two commits before HEAD
+|git reset HEAD~1 | Going back to the commit before HEAD
+|git reset HEAD~2 | Going back two commits before HEAD
 |git branch | List all local branches in repository
 |git branch baranchName| Create new branch, referencing the current HEAD.
 |git checkout branch name | Switch working directory to the specified branch.
