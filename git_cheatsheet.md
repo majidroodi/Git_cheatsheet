@@ -68,15 +68,15 @@ A repository is a folder containing a `.git` directory and our projects files th
 |git push origin | Push local changes to the remote repository.
 |git marge | Join two or more development histories together
 
+---------------------------------------------------
 ## Fork
 A fork is a rough copy of a repository. Forking a repository allows you to freely test and debug with changes without affecting the original project. One of the excessive use of forking is to propose changes for bug fixing. To resolve an issue for a bug that you found, you can:
 - Fork the repository.
 - Make the fix.
 - Forward a pull request to the project owner.
 --------------------------------------------------
-#### Write by Majid Roodi     
+#### Written by Majid Roodi     
 [majidroodi.github.io](https://majidroodi.github.io/)  
-[majidroodi.mr@gmail.com](majidroodi.mr@gmail.com) 
 
 ---------------------------------------------------
 This `git_cheatsheet` is a part of DevOps with Saeid class 
