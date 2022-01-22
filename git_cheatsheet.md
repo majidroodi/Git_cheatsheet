@@ -75,11 +75,11 @@ A fork is a rough copy of a repository. Forking a repository allows you to freel
 - Forward a pull request to the project owner.
 --------------------------------------------------
 #### Write by Majid Roodi     
-[majidroodi.github.io](majidroodi.github.io)  
+[majidroodi.github.io](https://majidroodi.github.io/)  
 [majidroodi.mr@gmail.com](majidroodi.mr@gmail.com) 
 
 ---------------------------------------------------
 This `git_cheatsheet` is a part of DevOps with Saeid class 
 (`DWS-DEV-005-git`)  
 See more on:  
-[www.devops-with-saeid.com](www.devops-with-saeid.com)
+[www.devops-with-saeid.com](https://devops-with-saeid.com/)
